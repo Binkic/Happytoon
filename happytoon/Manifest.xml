@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<application>
+		<name>开宝之家</name>
+		<alias>happytoon</alias>
+		<version>1.0</version>
+		<pw-version>9.0</pw-version>
+		<charset>UTF-8</charset>
+		<type>style</type>
+		<style-type>site</style-type>
+		<description>开宝之家，第一个《开心宝贝》动漫民间社区。</description>
+		<logo>images/preview.jpg</logo>
+		<website>https://www.binkic.com</website>
+		<author-name>奇趣保罗（Paul）</author-name>
+		<author-email>dreamer_paul@126.com</author-email>
+		<author-icon></author-icon>
+	</application>
+
+</manifest>
